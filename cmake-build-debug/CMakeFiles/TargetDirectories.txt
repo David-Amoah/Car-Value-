@@ -1,0 +1,5 @@
+C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/CMakeFiles/unittest.dir
+C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/CMakeFiles/Car_value_HW.dir
+C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/CMakeFiles/rebuild_cache.dir

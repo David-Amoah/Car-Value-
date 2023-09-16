@@ -1,0 +1,41 @@
+# ninja log v5
+7	140	7165122597590512	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+146	1044	7165122606606674	CMakeFiles/Car_value_HW.dir/Car.cpp.obj	4d2917a84734407f
+5	238	7165125391465710	Car_value_HW.exe	88acb1aea3937111
+7	140	7165122597590512	runner.cpp	694c58ca0c1868dc
+153	756	7165122603784180	CMakeFiles/Car_value_HW.dir/main.cpp.obj	26931b785a17b31c
+140	1749	7165122613695959	CMakeFiles/Car_value_HW.dir/runner.cpp.obj	55f66d9e60688477
+2	624	7165136890831290	build.ninja	d75c6743e8b1754b
+8	205	7165154174653993	runner.cpp	694c58ca0c1868dc
+8	205	7165154174653993	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+207	1162	7165154184277817	CMakeFiles/Car_value_HW.dir/Car.cpp.obj	4d2917a84734407f
+214	1851	7165154191169880	CMakeFiles/Car_value_HW.dir/runner.cpp.obj	55f66d9e60688477
+1851	2068	7165154193305987	Car_value_HW.exe	88acb1aea3937111
+6	209	7165175582373143	runner.cpp	694c58ca0c1868dc
+6	209	7165175582373143	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+210	1255	7165175592957565	CMakeFiles/Car_value_HW.dir/Car.cpp.obj	4d2917a84734407f
+218	1856	7165175598984748	CMakeFiles/Car_value_HW.dir/runner.cpp.obj	55f66d9e60688477
+1856	2086	7165175601223071	Car_value_HW.exe	88acb1aea3937111
+6	198	7165180705630828	runner.cpp	694c58ca0c1868dc
+6	198	7165180705630828	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+206	2433	7165180727934817	CMakeFiles/Car_value_HW.dir/Car.cpp.obj	4d2917a84734407f
+4	126	7165180970736552	runner.cpp	694c58ca0c1868dc
+4	126	7165180970736552	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+126	1592	7165180985407700	CMakeFiles/Car_value_HW.dir/runner.cpp.obj	55f66d9e60688477
+1593	1777	7165180987234111	Car_value_HW.exe	88acb1aea3937111
+6	152	7165181279157727	runner.cpp	694c58ca0c1868dc
+6	152	7165181279157727	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+153	1778	7165181295464136	CMakeFiles/Car_value_HW.dir/runner.cpp.obj	55f66d9e60688477
+1778	1971	7165181297355948	Car_value_HW.exe	88acb1aea3937111
+6	161	7165182258586247	runner.cpp	694c58ca0c1868dc
+6	161	7165182258586247	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+162	1699	7165182274060533	CMakeFiles/Car_value_HW.dir/runner.cpp.obj	55f66d9e60688477
+1700	1867	7165182275688707	Car_value_HW.exe	88acb1aea3937111
+6	143	7165183413970721	runner.cpp	694c58ca0c1868dc
+6	143	7165183413970721	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+144	1737	7165183429965436	CMakeFiles/Car_value_HW.dir/runner.cpp.obj	55f66d9e60688477
+1737	1904	7165183431618004	Car_value_HW.exe	88acb1aea3937111
+5	118	7165183618510211	runner.cpp	694c58ca0c1868dc
+5	118	7165183618510211	C:/Users/amoah/OneDrive/Desktop/CLionProjects/Car-value HW/cmake-build-debug/runner.cpp	694c58ca0c1868dc
+119	1520	7165183632561552	CMakeFiles/Car_value_HW.dir/runner.cpp.obj	55f66d9e60688477
+1520	1698	7165183634293342	Car_value_HW.exe	88acb1aea3937111
